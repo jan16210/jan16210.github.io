@@ -1,13 +1,13 @@
 body {
-    font-family: Pinyon Script, cursive; /* Rodzina czcionek */
+    font-family: "Pinyon Script", cursive; /* Rodzina czcionek */
     font-size: 11px; /* Rozmiar głównej czcionki w <p></p> tag  */
-    background-color: #f0f0f0; /* Kolor tła strony internetowej */
+    background-color: #2f9ac4; /* Kolor tła strony internetowej */
     color: #333333; /* Kolor tła strony internetowej*/ 
 }
 h1 {
-    color: #00a800; /* Kolor nagłówka */
+    color: #bd1f1a; /* Kolor nagłówka */
     font-size: 24px; /* Rozmiar czcionki nagłówka */
-    font-family: Georgia, serif; /* Rodzina czcionek używana w nagłówku */
+    font-family: "Pinyon Script", cursive; /* Rodzina czcionek używana w nagłówku */
     animation: colorChange 3s infinite; /* Animacja zmiany koloru */
 }
 .pinyon-script-regular {
