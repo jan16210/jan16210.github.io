@@ -33,3 +33,7 @@ h4 {
     font-family: "Pinyon Script", cursive; /* Rodzina czcionek używana w nagłówku */
     animation: colorChange 3s infinite; /* Animacja zmiany koloru */
 }
+a {
+    color: #b5ca8c; /* Kolor linków */
+    text-decoration: underline; /* Dodanie podkreślenia do linków */
+}
