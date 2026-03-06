@@ -17,23 +17,23 @@ h1 {
 }
 h2 {
     color: #000000; /* Kolor nagłówka */
-    font-size: 30px; /* Rozmiar czcionki nagłówka */
+    font-size: 40px; /* Rozmiar czcionki nagłówka */
     font-family: "Pinyon Script", cursive; /* Rodzina czcionek używana w nagłówku */
     animation: colorChange 3s infinite; /* Animacja zmiany koloru */
 }
 h3 {
     color: #000000; /* Kolor nagłówka */
-    font-size: 20px; /* Rozmiar czcionki nagłówka */
+    font-size: 40px; /* Rozmiar czcionki nagłówka */
     font-family: "Pinyon Script", cursive; /* Rodzina czcionek używana w nagłówku */
     animation: colorChange 3s infinite; /* Animacja zmiany koloru */
 }
 h4 {
     color: #000000; /* Kolor nagłówka */
-    font-size: 15px; /* Rozmiar czcionki nagłówka */
+    font-size: 40px; /* Rozmiar czcionki nagłówka */
     font-family: "Pinyon Script", cursive; /* Rodzina czcionek używana w nagłówku */
     animation: colorChange 3s infinite; /* Animacja zmiany koloru */
 }
 a {
-    color: #b5ca8c; /* Kolor linków */
+    color: #347a57; /* Kolor linków */
     text-decoration: underline; /* Dodanie podkreślenia do linków */
 }
